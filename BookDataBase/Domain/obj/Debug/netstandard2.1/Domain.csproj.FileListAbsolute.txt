@@ -1,0 +1,16 @@
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/fathindosunmu/OneDrive/C#/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.pdb
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/fathindosunmu/OneDrive/Csharp/icd0008-2019f/BookDataBase/Domain/obj/Debug/netstandard2.1/Domain.pdb
